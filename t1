@@ -1,0 +1,14 @@
+<html>
+<Title>Alert</Title>
+
+<Head>
+
+<script>alert("xss! AAH Found one stored XSS")</script>
+
+<script>alert(document.location)</script>
+
+</Head>
+
+
+
+</html>
